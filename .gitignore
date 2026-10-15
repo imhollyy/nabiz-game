@@ -1,0 +1,18 @@
+# Godot 4 generated editor and import state
+.godot/
+.import/
+
+# Local exports/builds
+build/
+dist/
+*.apk
+*.aab
+*.pck
+*.exe
+*.dmg
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
